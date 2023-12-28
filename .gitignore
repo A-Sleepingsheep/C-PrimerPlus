@@ -1,0 +1,6 @@
+/.vs
+x64/
+CPrimerPlus/x64/
+*.vcxproj
+*.filters
+*.user
