@@ -1,5 +1,6 @@
 /.vs
 x64/
+Debug/
 CPrimerPlus/x64/
 *.vcxproj
 *.filters

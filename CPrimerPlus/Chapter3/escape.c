@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-int main(void) {
+int main_3_10(void) {
 	float salary;
 
 	printf("\aEnter your desired monthly salary:");
